@@ -16,11 +16,11 @@ highlighter: rouge
 
 
 ### content configuration ###
-title: Bioinformatics Consulting for HMS
-keywords: bioinformatics, hms, tnt, consult
-description: Support in high-dimensional data management, analysis and dissemination for Harvard Medical School through the HSPH Bioinformatics Core
+title: Applications Cognitive Science
+keywords: Cognitive Science, IA, Public Policy, Data Science,
+description: How does the human brain acquire or reacquire knowledge? How does it interact with technological objects or with other brains? The cognitive engineering track introduces some of the major concepts and findings of the study of the brain and its functions (perception, action, decision-making, consciousness, memory, language, social cognition, etc.) and illustrates how this fundamental knowledge can help to resolve complex engineering problems involving human operators.
 #source_link:
-#favicon:
+favicon: img/ens.png
 #touch_icon:
 #google_analytics_key:
 
