@@ -21,3 +21,5 @@ TODO: small text for researcher
 If in doubt [ask us for more information](#contact)!
 
 ### Already partners with the Cogmaster
+
+... include the companies
